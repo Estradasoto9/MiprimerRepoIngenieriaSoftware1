@@ -15,3 +15,8 @@ This is a project trying to guide students throughout [Github]
 -Bullet 1
 
 -Bullet 2
+
+## Change Log
+
+###  Version 1.0.0
+  - Change Documentation inside readMe file just for testing purposes
